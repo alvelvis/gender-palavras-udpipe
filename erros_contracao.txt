@@ -1,0 +1,599 @@
+<mwe lema=às=vezes pos=ADV>
++as	A_Mortalha_de_Alzira	Prosa:romance	AluAze	1894	naturalismo_realismo_romantismo	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+1-2->1-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pela=manhã pos=ADV>
++a	O_Cortiço	Prosa:romance	AluAze	1890	naturalismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+8-2->8-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=no=meio=de pos=PRP>
++o	O_Cortiço	Prosa:romance	AluAze	1890	naturalismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+4-2->4-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=no=entanto pos=ADV>
++o	O_Cortiço	Prosa:romance	AluAze	1890	naturalismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+17-2->17-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=hora=de pos=PRP>
++a	O_Coruja	Prosa:romance	AluAze	1889	realismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+8-2->8-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=desta=vez pos=ADV>
++esta	O_Coruja	Prosa:romance	AluAze	1889	realismo	masc	orig	+este	+DET	+0	+S	+F	+>N	0	+0	0	+2-2->2-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=contrário pos=ADV>
++o	O_Coruja	Prosa:romance	AluAze	1889	realismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+12-2->12-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	O_Coruja	Prosa:romance	AluAze	1889	realismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+15-2->15-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=cabo pos=ADV>
++o	O_Coruja	Prosa:romance	AluAze	1889	realismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+8-2->8-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pela=manhã pos=ADV>
++a	O_Coruja	Prosa:romance	AluAze	1889	realismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+25-2->25-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=no=meio=de pos=PRP>
++o	O_Coruja	Prosa:romance	AluAze	1889	realismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+126-2->126-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=lado=de pos=PRP>
++o	O_Homem	Prosa:romance	AluAze	1887	realismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+42-2->42-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	O_Homem	Prosa:romance	AluAze	1887	realismo	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+65-2->65-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=lado=de pos=PRP>
++o	O_Mulato	Prosa:romance	AluAze	1881	naturalismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+51-2->51-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=lado=de pos=PRP>
++o	O_Mulato	Prosa:romance	AluAze	1881	naturalismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+39-2->39-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	O_Mulato	Prosa:romance	AluAze	1881	naturalismo	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+20-2->20-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=direita pos=ADV>
++a	Uma_lágrima_de_mulher	Prosa:romance	AluAze	1879	romantismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+24-2->24-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=longo=de pos=PRP>
++o	A_Escrava_Isaura	Prosa:romance	BerGui	1875	romantismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+9-2->9-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=menos pos=ADV>
++o	A_Escrava_Isaura	Prosa:romance	BerGui	1875	romantismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+7-2->7-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	O_ermitão_do_Muquém	Prosa:romance	BerGui	1868	romantismo_regionalismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+24-2->24-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=aos=olhos=de pos=PRP>
++os	O_ermitão_do_Muquém	Prosa:romance	BerGui	1868	romantismo_regionalismo	masc	orig	+o	+DET_artd	+0	+P	+M	+>N	0	+0	0	+77-2->77-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=mesmo=tempo pos=ADV>
++o	O_ermitão_do_Muquém	Prosa:romance	BerGui	1868	romantismo_regionalismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+8-2->8-4	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=aos=olhos=de pos=PRP>
++os	O_ermitão_do_Muquém	Prosa:romance	BerGui	1868	romantismo_regionalismo	masc	orig	+o	+DET_artd	+0	+P	+M	+>N	0	+0	0	+24-2->24-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	O_seminarista	Prosa:romance	BerGui	1872	romantismo_regionalismo	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+34-2->34-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=aos=pés=de pos=PRP>
++os	O_seminarista	Prosa:romance	BerGui	1872	romantismo_regionalismo	masc	orig	+o	+DET_artd	+0	+P	+M	+>N	0	+0	0	+29-2->29-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=pé=de pos=PRP>
++o	O_seminarista	Prosa:romance	BerGui	1872	romantismo_regionalismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+21-2->21-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=primeira=vista pos=ADV>
++a	O_seminarista	Prosa:romance	BerGui	1872	romantismo_regionalismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+1-2->1-4	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=fundo pos=ADV>
++o	A_bico_de_pena	Prosa:contos	CoeNet	1904	realismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+71-2->71-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	A_bico_de_pena	Prosa:contos	CoeNet	1904	realismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+32-2->32-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=volta=de pos=PRP>
++a	A_bico_de_pena	Prosa:contos	CoeNet	1904	realismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+52-2->52-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=beira=de pos=PRP>
++a	A_bico_de_pena	Prosa:contos	CoeNet	1904	realismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+11-2->11-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=longe pos=ADV>
++o	A_bico_de_pena	Prosa:contos	CoeNet	1904	realismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+8-2->8-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	A_capital_federal	Prosa:romance	CoeNet	1915	realismo	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+9-2->9-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	A_cidade_maravilhosa	PROSA:contos	CoeNet	1928	realismo	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+44-2->44-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=medida=que pos=ADV>
++a	A_cidade_maravilhosa	PROSA:contos	CoeNet	1928	realismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+15-2->15-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=beira=de pos=PRP>
++a	A_cidade_maravilhosa	PROSA:contos	CoeNet	1928	realismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+16-2->16-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=beira=de pos=>
++a	A_cidade_maravilhosa	PROSA:contos	CoeNet	1928	realismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+46-2->46-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=esquerda pos=ADV>
++a	A_cidade_maravilhosa	PROSA:contos	CoeNet	1928	realismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+15-2->15-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	A_cidade_maravilhosa	PROSA:contos	CoeNet	1928	realismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+30-2->30-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	A_cidade_maravilhosa	PROSA:contos	CoeNet	1928	realismo	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+20-2->20-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	A_conquista	Prosa:romance	CoeNet	1899	realismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+10-2->10-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pela=primeira=vez pos=ADV>
++a	A_conquista	Prosa:romance	CoeNet	1899	realismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+13-2->13-4	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	Água_de_Juventa	Prosa:contos	CoeNet	1905	realismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+5-2->5-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=rés=de pos=PRP>
++o	Água_de_Juventa	Prosa:contos	CoeNet	1905	realismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+33-2->33-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	Mano	Prosa:romance	CoeNet	1924	desc	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+10-2->10-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	Miragem	Prosa:romance	CoeNet	1895	realismo_naturalismo	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+25-2->25-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=maneira=de pos=PRP>
++a	Miragem	Prosa:romance	CoeNet	1895	realismo_naturalismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+24-2->24-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=beira=de pos=PRP>
++a	Turbilhão	Prosa:romance	CoeNet	1904	realismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+15-2->15-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=lado=de pos=PRP>
++o	Turbilhão	Prosa:romance	CoeNet	1904	realismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+6-2->6-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	Contrastes_e_Confrontos	Prosa:artigo	EucCun	1866	desc	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+7-2->7-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=presente pos=ADV>
++o	Contrastes_e_Confrontos	Prosa:artigo	EucCun	1866	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+17-2->17-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pelo=meio pos=ADV>
++o	Os_Sertões_I	Prosa:prosa	EucCun	1902	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+27-2->27-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=aos=poucos pos=ADV>
++os	Os_Sertões_I	Prosa:prosa	EucCun	1902	desc	masc	orig	+o	+DET_artd	+0	+P	+M	+>N	0	+0	0	+2-2->2-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=menos pos=ADV>
++o	Os_Sertões_I	Prosa:prosa	EucCun	1902	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+14-2->14-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=lado=de pos=PRP>
++o	Os_Sertões_II	Prosa:prosa	EucCun	1902	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+36-2->36-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=no=meio=de pos=PRP>
++o	Os_Sertões_II	Prosa:prosa	EucCun	1902	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+53-2->53-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pela=primeira=vez pos=ADV>
++a	Os_Sertões_II	Prosa:prosa	EucCun	1902	desc	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+44-2->44-4	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=flor=de pos=PRP>
++a	Os_Sertões_II	Prosa:prosa	EucCun	1902	desc	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+15-2->15-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pelos=cabelos pos=ADV>
++os	Os_Sertões_II	Prosa:prosa	EucCun	1902	desc	masc	orig	+o	+DET_artd	+0	+P	+M	+>N	0	+0	0	+22-2->22-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	Os_Sertões_II	Prosa:prosa	EucCun	1902	desc	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+6-2->6-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=prova=de pos=PRP>
++a	Os_Sertões_II	Prosa:prosa	EucCun	1902	desc	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+28-2->28-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=invés=de pos=PRP>
++o	Os_Sertões_II	Prosa:prosa	EucCun	1902	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+14-2->14-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=longe pos=ADV>
++o	Os_Sertões_II	Prosa:prosa	EucCun	1902	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+15-2->15-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pelo=menos pos=ADV>
++o	Os_Sertões_II	Prosa:prosa	EucCun	1902	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+1-2->1-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=passo=que pos=KS>
++o	Os_Sertões_II	Prosa:prosa	EucCun	1902	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+24-2->24-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=mesmo=tempo pos=ADV>
++o	O_Cabeleira	Prosa:romance	FraTav	1876	realismo_regionalismo_romantismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+34-2->34-4	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	O_Cabeleira	Prosa:romance	FraTav	1876	realismo_regionalismo_romantismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+31-2->31-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	O_Cabeleira	Prosa:romance	FraTav	1876	realismo_regionalismo_romantismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+4-2->4-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pelo=meio pos=ADV>
++o	O_Matuto	Prosa:romance	FraTav	1878	realismo_regionalismo_romantismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+21-2->21-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	O_Matuto	Prosa:romance	FraTav	1878	realismo_regionalismo_romantismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+4-2->4-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	O_Matuto	Prosa:romance	FraTav	1878	realismo_regionalismo_romantismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+19-2->19-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=menos pos=ADV>
++o	O_Matuto	Prosa:romance	FraTav	1878	realismo_regionalismo_romantismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+13-2->13-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pelo=lado=de pos=PRP>
++o	O_Matuto	Prosa:romance	FraTav	1878	realismo_regionalismo_romantismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+19-2->19-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	O_Matuto	Prosa:romance	FraTav	1878	realismo_regionalismo_romantismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+23-2->23-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=direita pos=ADV>
++a	O_Sacrifício	Prosa:romance	FraTav	1879	romantismo_realismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+1-2->1-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=dos=pés=à=cabeça pos=ADV>
++os	A_serpente_de_bronze	Prosa:conto	HumCam	1921	desc	masc	orig	+o	+DET_artd	+0	+P	+M	+>N	0	+0	0	+17-2->17-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=aos=poucos pos=ADV>
++os	A_serpente_de_bronze	Prosa:conto	HumCam	1921	desc	masc	orig	+o	+DET_artd	+0	+P	+M	+>N	0	+0	0	+25-2->25-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pelo=menos pos=ADV>
++o	Grãos_de_mostarda	Prosa:conto	HumCam	1926	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+7-2->7-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=lado=de pos=PRP>
++o	O_monstro_e_outros_contos	Prosa:conto	HumCam	1932	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+11-2->11-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=beira=de pos=PRP>
++a	O_monstro_e_outros_contos	Prosa:conto	HumCam	1932	desc	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+10-2->10-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=no=entanto pos=ADV>
++o	O_monstro_e_outros_contos	Prosa:conto	HumCam	1932	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+26-2->26-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pelos=cabelos pos=ADV>
++os	O_monstro_e_outros_contos	Prosa:conto	HumCam	1932	desc	masc	orig	+o	+DET_artd	+0	+P	+M	+>N	0	+0	0	+65-2->65-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=no=meio=de pos=PRP>
++o	O_monstro_e_outros_contos	Prosa:conto	HumCam	1932	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+7-2->7-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=longe pos=ADV>
++o	O_monstro_e_outros_contos	Prosa:conto	HumCam	1932	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+4-2->4-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	O_missionário	prosa:romance	IngSou	1891	desc	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+79-2->79-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pelo=meio pos=ADV>
++o	Como_e_porque_sou_romancista	Prosa:autobiografia	JosdAle	1893	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+10-2->10-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	O_gaúcho	Prosa:romance	JosdAle	1870	regionalismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+8-2->8-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=mesmo=tempo pos=ADV>
++o	O_gaúcho	Prosa:romance	JosdAle	1870	regionalismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+19-2->19-4	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=primeira=vista pos=ADV>
++a	O_gaúcho	Prosa:romance	JosdAle	1870	regionalismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+15-2->15-4	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=longe pos=ADV>
++o	O_sertanejo	Prosa:romance	JosdAle	1875	romantismo_regionalismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+3-2->3-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=de=leve pos=ADV>
++o	O_sertanejo	Prosa:romance	JosdAle	1875	romantismo_regionalismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+3-2->3-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	O_sertanejo	Prosa:romance	JosdAle	1875	romantismo_regionalismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+15-2->15-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=no=meio=de pos=PRP>
++o	O_sertanejo	Prosa:romance	JosdAle	1875	romantismo_regionalismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+9-2->9-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=encontro=de pos=PRP>
++o	O_sertanejo	Prosa:romance	JosdAle	1875	romantismo_regionalismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+3-2->3-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=longe pos=ADV>
++o	O_sertanejo	Prosa:romance	JosdAle	1875	romantismo_regionalismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+24-2->24-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	O_sertanejo	Prosa:romance	JosdAle	1875	romantismo_regionalismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+44-2->44-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=direita pos=ADV>
++a	O_sertanejo	Prosa:romance	JosdAle	1875	romantismo_regionalismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+12-2->12-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=daí=em=diante pos=ADV>
++aí	O_sertanejo	Prosa:romance	JosdAle	1875	romantismo_regionalismo	masc	orig	+aí	+ADV	+0	+0	+0	+ADVL>	0	+0	0	+1-2->1-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=aos=pés=de pos=PRP>
++os	O_sertanejo	Prosa:romance	JosdAle	1875	romantismo_regionalismo	masc	orig	+o	+DET_artd	+0	+P	+M	+>N	0	+0	0	+29-2->29-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=mesmo=tempo pos=ADV>
++o	O_sertanejo	Prosa:romance	JosdAle	1875	romantismo_regionalismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+42-2->42-4	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	O_sertanejo	Prosa:romance	JosdAle	1875	romantismo_regionalismo	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+13-2->13-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=no=meio=de pos=PRP>
++o	O_sertanejo	Prosa:romance	JosdAle	1875	romantismo_regionalismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+9-2->9-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	Ubijarara	Prosa:romance	JosdAle	1874	indianismo_romantismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+8-2->8-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=no=meio=de pos=PRP>
++o	A_Alma_Encantadora_das_Ruas	Prosa:crônica	JoadRio	1807	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+48-2->48-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pela=palavra pos=ADV>
++a	As_Religiões_no_Rio	Prosa:crônica	JoadRio	1904	desc	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+75-2->75-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=esquerda pos=ADV>
++a	A_Moreninha	Prosa:romance	JMdM	1844	romantismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+18-2->18-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=no=meio=de pos=PRP>
++o	A_Moreninha	Prosa:romance	JMdM	1844	romantismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+8-2->8-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	A_Moreninha	Prosa:romance	JMdM	1844	romantismo	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+20-2->20-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=no=dia=anterior pos=ADV>
++o	O_moço_louro	Prosa:romance	JMdM	1845	romantismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+1-2->1-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=na=frente=de pos=PRP>
++a	O_moço_louro	Prosa:romance	JMdM	1845	romantismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+108-2->108-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=lado=de pos=PRP>
++o	O_moço_louro	Prosa:romance	JMdM	1845	romantismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+65-2->65-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	O_moço_louro	Prosa:romance	JMdM	1845	romantismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+35-2->35-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=no=meio=de pos=PRP>
++o	O_moço_louro	Prosa:romance	JMdM	1845	romantismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+2-2->2-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=menos pos=ADV>
++o	O_moço_louro	Prosa:romance	JMdM	1845	romantismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+16-2->16-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pelo=lado=de pos=PRP>
++o	O_moço_louro	Prosa:romance	JMdM	1845	romantismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+20-2->20-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	O_moço_louro	Prosa:romance	JMdM	1845	romantismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+43-2->43-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=desta=vez pos=ADV>
++esta	O_moço_louro	Prosa:romance	JMdM	1845	romantismo	masc	orig	+este	+DET	+0	+S	+F	+>N	0	+0	0	+42-2->42-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=aos=olhos=de pos=PRP>
++os	Os_Dois_Amores	Prosa:romance	JMdM	1848	romantismo	masc	orig	+o	+DET_artd	+0	+P	+M	+>N	0	+0	0	+95-2->95-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=da=parte=de pos=PRP>
++a	Os_Dois_Amores	Prosa:romance	JMdM	1848	romantismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+33-2->33-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	Os_Dois_Amores	Prosa:romance	JMdM	1848	romantismo	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+27-2->27-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=no=meio=de pos=PRP>
++o	Os_Dois_Amores	Prosa:romance	JMdM	1848	romantismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+59-2->59-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=pé=de pos=PRP>
++o	Os_Dois_Amores	Prosa:romance	JMdM	1848	romantismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+57-2->57-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	Os_Dois_Amores	Prosa:romance	JMdM	1848	romantismo	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+35-2->35-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	Os_Dois_Amores	Prosa:romance	JMdM	1848	romantismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+9-2->9-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=pé=de pos=PRP>
++o	Os_Dois_Amores	Prosa:romance	JMdM	1848	romantismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+16-2->16-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=na=presença=de pos=PRP>
++a	Os_Dois_Amores	Prosa:romance	JMdM	1848	romantismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+23-2->23-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	Os_Dois_Amores	Prosa:romance	JMdM	1848	romantismo	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+1-2->1-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=luz=de pos=PRP>
++a	Os_Dois_Amores	Prosa:romance	JMdM	1848	romantismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+3-2->3-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=força=de pos=PRP>
++a	Camões	Prosa:prosa	JoaNab	1807	desc	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+58-2->58-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=no=meio=de pos=PRP>
++o	Camões	Prosa:prosa	JoaNab	1807	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+1-2->1-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pelo=contrário pos=ADV>
++o	Camões	Prosa:prosa	JoaNab	1807	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+46-2->46-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=força=de pos=PRP>
++a	A_Carne	Prosa:romance	JulRib	1888	realismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+3-2->3-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=redor=de pos=PRP>
++o	Clara_dos_anjos	Prosa:romance	LimBar	1948	naturalismo_realismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+18-2->18-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	Clara_dos_anjos	Prosa:romance	LimBar	1948	naturalismo_realismo	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+1-2->1-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=da=parte=de pos=PRP>
++a	Clara_dos_anjos	Prosa:romance	LimBar	1948	naturalismo_realismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+8-2->8-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	O_Homem_que_Sabia_Javanês_e_Outros_Contos	Prosa:contos	LimBar	1997	desc	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+6-2->6-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=aos=poucos pos=ADV>
++os	O_Homem_que_Sabia_Javanês_e_Outros_Contos	Prosa:contos	LimBar	1997	desc	masc	orig	+o	+DET_artd	+0	+P	+M	+>N	0	+0	0	+3-2->3-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pela=manhã pos=ADV>
++a	Recordações_do_escrivão_Isaías_Caminha	Prosa:romance	LimBar	1909	realismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+9-2->9-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=no=caso=de pos=PRP>
++o	Memórias_de_um_sargento_de_milícias	Prosa:romance	ManAAlm	1852	picaresco_realismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+34-2->34-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=vista=de pos=PRP>
++a	Memórias_de_um_sargento_de_milícias	Prosa:romance	ManAAlm	1852	picaresco_realismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+13-2->13-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=longe pos=ADV>
++o	Memórias_de_um_sargento_de_milícias	Prosa:romance	ManAAlm	1852	picaresco_realismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+6-2->6-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	Memórias_de_um_sargento_de_milícias	Prosa:romance	ManAAlm	1852	picaresco_realismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+41-2->41-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=pé=de pos=PRP>
++o	A_melhor_das_noivas	Prosa:conto	MacAss	1977	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+10-2->10-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	A_pianista	Prosa:conto	MacAss	1866	desc	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+43-2->43-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=pé=de pos=PRP>
++o	A_semana	Prosa:crônica	MacAss	1892	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+14-2->14-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pelos=cabelos pos=ADV>
++os	A_semana	Prosa:crônica	MacAss	1892	desc	masc	orig	+o	+DET_artd	+0	+P	+M	+>N	0	+0	0	+19-2->19-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=pé=de pos=PRP>
++o	A_semana	Prosa:crônica	MacAss	1892	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+1-2->1-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pelo=pescoço pos=ADV>
++o	A_vida_eterna	Prosa:conto	MacAss	1870	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+4-2->4-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=pé=de pos=PRP>
++o	Badaladas	Prosa:crônica	MacAss	1871	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+2-2->2-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=mesmo=tempo pos=ADV>
++o	Badaladas	Prosa:crônica	MacAss	1871	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+1-2->1-4	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=desta=vez pos=ADV>
++esta	Balas_de_estalo	Prosa:crônica	MacAss	1883	desc	masc	orig	+este	+DET	+0	+S	+F	+>N	0	+0	0	+1-2->1-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=daqui=a=pouco pos=ADV>
++aqui	Bons_dias	Prosa:crônica	MacAss	1888	desc	masc	orig	+aqui	+ADV	+0	+0	+0	+P<	0	+0	0	+55-2->55-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pelo=menos pos=ADV>
++o	Crônicas_(O_Futuro)	Prosa:crônica	MacAss	1862	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+21-2->21-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=desta=vez pos=ADV>
++esta	D._Benedita	Prosa:conto	MacAss	1882	desc	masc	orig	+este	+DET	+0	+S	+F	+>N	0	+0	0	+8-2->8-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=boas pos=ADJ>
++as	Esaú_e_Jacó	Prosa:romance	MacAss	1904	realismo	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+16-2->16-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=menos pos=ADV>
++o	Fernando_e_Fernanda	Prosa:conto	MacAss	1866	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+4-2->4-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	Helena	Prosa:romance	MacAss	1876	romantismo	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+16-2->16-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=mesmo=tempo pos=ADV>
++o	Helena	Prosa:romance	MacAss	1876	romantismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+16-2->16-4	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=mesmo=tempo pos=ADV>
++o	História_de_uma_lágrima	Prosa:conto	MacAss	1867	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+17-2->17-4	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=mesmo=tempo pos=ADV>
++o	Histórias_sem_Data	Prosa:conto	MacAss	1884	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+1-2->1-4	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=aos=pés=de pos=PRP>
++os	Histórias_sem_Data	Prosa:conto	MacAss	1884	desc	masc	orig	+o	+DET_artd	+0	+P	+M	+>N	0	+0	0	+3-2->3-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	Iaiá_Garcia	Prosa:romance	MacAss	1878	romantismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+7-2->7-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=passo=que pos=KS>
++o	Memórias_póstumas_de_Brás_Cubas	Prosa:romance	MacAss	1881	realismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+16-2->16-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=cabo=de pos=PRP>
++o	Memórias_póstumas_de_Brás_Cubas	Prosa:romance	MacAss	1881	realismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+1-2->1-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=longe pos=ADV>
++o	Memórias_póstumas_de_Brás_Cubas	Prosa:romance	MacAss	1881	realismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+32-2->32-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=mesmo=tempo pos=ADV>
++o	Memórias_póstumas_de_Brás_Cubas	Prosa:romance	MacAss	1881	realismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+15-2->15-4	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=passo=que pos=KS>
++o	Não_é_mel_para_boca_de_asno	Prosa:conto	MacAss	1868	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+15-2->15-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=desta=feita pos=ADV>
++esta	Amar,_verbo_intransitivo	Prosa:romance	MardAnd	1927	modernismo	masc	orig	+este	+DET	+0	+S	+F	+>N	0	+0	0	+4-2->4-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=daí=em=diante pos=ADV>
++aí	O_alienista	Prosa:novela	MacAss	1882	realismo	masc	orig	+aí	+ADV	+0	+0	+0	+ADVL>	0	+0	0	+1-2->1-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	O_alienista	Prosa:novela	MacAss	1882	realismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+43-2->43-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	O_imortal	Prosa:conto	MacAss	1882	desc	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+6-2->6-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	Oliver_Twist	Prosa:romance	MacAss	1870	desc	masc	trad	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+26-2->26-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=vista=de pos=PRP>
++a	Oliver_Twist	Prosa:romance	MacAss	1870	desc	masc	trad	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+6-2->6-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=maneira=de pos=PRP>
++a	Oliver_Twist	Prosa:romance	MacAss	1870	desc	masc	trad	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+20-2->20-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	O_pai	Prosa:conto	MacAss	1866	desc	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+5-2->5-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	Os_óculos_de_Pedro_Antão	Prosa:conto	MacAss	1874	desc	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+13-2->13-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=lado=de pos=PRP>
++o	Os_trabalhadores_do_mar	Prosa:romance	MacAss	1866	romantismo	masc	trad	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+14-2->14-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=lado=de pos=PRP>
++o	Os_trabalhadores_do_mar	Prosa:romance	MacAss	1866	romantismo	masc	trad	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+7-2->7-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=longe pos=ADV>
++o	Os_trabalhadores_do_mar	Prosa:romance	MacAss	1866	romantismo	masc	trad	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+3-2->3-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=lado=de pos=PRP>
++o	Só	Prosa:conto	MacAss	1885	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+6-2->6-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=cabo=de pos=PRP>
++o	Um_almoço	Prosa:conto	MacAss	1877	desc	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+3-2->3-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	Um_ambicioso	Prosa:conto	MacAss	1877	desc	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+4-2->4-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=hora=de pos=PRP>
++a	Dona_Guidinha_do_Poço	Prosa:romance	MandOPai	1891	naturalismo_regionalismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+1-2->1-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=no=caso=de pos=PRP>
++o	Os_irmãos_Leme	Prosa:romance	PauSet	1933	histórico	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+29-2->29-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	O_sonho_das_esmeraldas	Prosa:romance	PauSet	1935	histórico	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+10-2->10-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=medida=que pos=ADV>
++a	14_de_julho_na_roça	Prosa:contos	RauPom	1883	realismo	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+40-2->40-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=acaso pos=ADV>
++o	14_de_julho_na_roça	Prosa:contos	RauPom	1883	realismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+3-2->3-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	O_Ateneu	Prosa:romance	RauPom	1888	impressionismo_naturalismo_realismo_simbolismo	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+16-2->16-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=às=vezes pos=ADV>
++as	O_Ateneu	Prosa:romance	RauPom	1888	impressionismo_naturalismo_realismo_simbolismo	masc	orig	+o	+DET_artd	+0	+P	+F	+>N	0	+0	0	+9-2->9-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=aos=pés=de pos=PRP>
++os	Uma_tragédia_no_Amazonas	Prosa:romance	RauPom	1882	realismo_naturalismo	masc	orig	+o	+DET_artd	+0	+P	+M	+>N	0	+0	0	+29-2->29-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=menos pos=ADV>
++o	Uma_tragédia_no_Amazonas	Prosa:romance	RauPom	1882	realismo_naturalismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+21-2->21-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=longe pos=ADV>
++o	A_retirada_da_Laguna,_narrativa_de_campanha	Prosa:crônica	VisTau	1874	histórico	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+34-2->34-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	A_retirada_da_Laguna,_narrativa_de_campanha	Prosa:crônica	VisTau	1874	histórico	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+18-2->18-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=medida=que pos=ADV>
++a	A_retirada_da_Laguna,_narrativa_de_campanha	Prosa:crônica	VisTau	1874	histórico	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+37-2->37-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=no=meio=de pos=>
++o	A_retirada_da_Laguna,_narrativa_de_campanha	Prosa:crônica	VisTau	1874	histórico	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+7-2->7-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=pelo=menos pos=ADV>
++o	A_retirada_da_Laguna,_narrativa_de_campanha	Prosa:crônica	VisTau	1874	histórico	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+40-2->40-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=à=medida=que pos=ADV>
++a	A_retirada_da_Laguna,_narrativa_de_campanha	Prosa:crônica	VisTau	1874	histórico	masc	orig	+o	+DET_artd	+0	+S	+F	+>N	0	+0	0	+1-2->1-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=longe pos=ADV>
++o	Inocência	Prosa:romance	VisTau	1872	realismo_regionalismo_romantismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+31-2->31-3	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=do=que pos=KS>
++o	Inocência	Prosa:romance	VisTau	1872	realismo_regionalismo_romantismo	masc	orig	+o	+DET	+0	+S	+M	+P<	0	+0	0	+37-2->37-1	__UNDEF__	__UNDEF__	__UNDEF__
+
+<mwe lema=ao=longe pos=ADV>
++o	Inocência	Prosa:romance	VisTau	1872	realismo_regionalismo_romantismo	masc	orig	+o	+DET_artd	+0	+S	+M	+>N	0	+0	0	+10-2->10-3	__UNDEF__	__UNDEF__	__UNDEF__
